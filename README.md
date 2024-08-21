@@ -1,6 +1,6 @@
 # Project
 hello
 hii
-
-
-gh
+added file= add .
+committed file = commit -m "message"
+git push
